@@ -1,0 +1,6 @@
+discord_data.json
+fluxer_data.json
+media_cache.json
+
+.tests/**
+__pycache__

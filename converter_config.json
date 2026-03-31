@@ -1,0 +1,6 @@
+{
+    "batch_size": 15,
+    "create_tags_with_provider": false,
+    "skip_tenor_mp4": true,
+    "convert_tenor_mp4_to_gif": false
+}
